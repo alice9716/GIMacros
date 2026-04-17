@@ -1,0 +1,11 @@
+[
+    ["wait", 1080],
+    ["md", "left", 200],
+    ["md", "right", 50],
+    ["mu", "right", 1020],
+    ["mu", "left", 530],
+    ["md", "left", 200],
+    ["md", "right", 50],
+    ["mu", "right", 60],
+    ["mu", "left", 0]
+]

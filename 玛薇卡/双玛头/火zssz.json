@@ -1,0 +1,10 @@
+[
+    ["md", "left", 200],
+    ["md", "right", 50],
+    ["mu", "right", 25],
+    ["mu", "left", 25],
+    ["md", "left", 160],
+    ["md", "right", 50],
+    ["mu", "right", 60],
+    ["mu", "left", 0]
+]
