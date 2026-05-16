@@ -1,0 +1,23 @@
+[
+
+    ["md", "left", 100],
+    ["mu", "left", 500],
+    ["kd", "a", 400],
+    ["ku", "a", 2000],
+    ["md", "left", 100],
+    ["mu", "left", 500],
+    ["md", "right", 400],
+    ["mu", "right", 400],
+    ["md", "right", 400],
+    ["mu", "right", 400],
+    ["wait", 1000],
+    ["md", "left", 100],
+    ["mu", "left", 500],
+    ["md", "left", 100],
+    ["mu", "left", 400],
+    ["md", "right", 400],
+    ["mu", "right", 400],
+    ["md", "right", 400],
+    ["mu", "right", 400]
+
+]
